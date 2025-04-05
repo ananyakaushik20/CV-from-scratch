@@ -8,5 +8,7 @@ This repository documents my journey of building a Computer Vision model from sc
 
 - Watched 2 lectures
 - Revisited basics of ML
+- Revisited basics of Computer Vision
 - Researched causes for complexity in biological image analysis
+- Prepared a summary of SOTA tools in biological image analysis
 
