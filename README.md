@@ -4,7 +4,7 @@ This repository documents my journey of building a Computer Vision model from sc
 
 ## Daily Progress
 
-### Day 1 ans 2: Understanding the Computer Vision Landscape + Foundations of CV
+### Day 1 and 2: Understanding the Computer Vision Landscape + Foundations of CV
 
 - Watched 2 lectures
 - Revisited basics of ML
